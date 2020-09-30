@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Annunciato Minecraft: Live",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MCLive-Header.jpg.transform/minecraft-image-large/image.jpg",
+    "url": "https://www.minecraft.net/en-us/article/announcing-minecraft-live",
+    "category": "minecon"
+  },
+  {
+    "title": "Nuovi mondi in RTX su Minecraft per Windows 10 beta",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MCLive-Header.jpg.transform/minecraft-image-large/image.jpg",
+    "url": "https://www.minecraft.net/en-us/article/new-worlds-rtx-windows-10-beta-",
+    "category": "bedrock"
+  },
+  {
+    "title": "Minecraft riceve il supporto a PlayStation VR",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/PSVR-header.jpg.transform/minecraft-image-large/image.jpg",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-gets-playstation-vr",
+    "category": "bedrock"
+  },
+  {
+    "title": "Rilasciato Minecraft 1.16.3",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_16_3_header.jpg.transform/minecraft-image-large/image.jpg",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-3",
+    "category": "java"
+  },
+  {
+    "title": "Rilasciato Minecraft 1.16.3 RC 1",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.16.3-rc1_header.jpg.transform/minecraft-image-large/image.jpg",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-3-release-candidate-1",
+    "category": "java"
+  },
+  {
+    "title": "Campi digitali con Minecraft: Education Edition",
+    "image": "https://education.minecraft.net/wp-content/uploads/Banner-30.png",
+    "url": "https://education.minecraft.net/blog/building-communities-pirate-ships-and-raining-chickens-park-universitys-minecraft-camp-experience",
+    "category": "education"
+  }
+]
