@@ -1,20 +1,20 @@
 [
   {
-    "title": "Java 1.16.4 release candidate 1 ora disponibile!",
+    "title": "Java 1.16.4 RC 1 ora disponibile",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-candidate-1-header.jpg.transform/minecraft-image-large/image.jpg",
     "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-4-release-candidate-1",
     "date": "2020-10-27",
     "category": "java"
   },
   {
-    "title": "Bedrock beta 1.16.200.56 ora disponibile!",
-    "image": "https://i.imgur.com/wa4ZdTc.png",
+    "title": "Bedrock beta 1.16.200.56 ora disponibile",
+    "image": "https://feedback.minecraft.net/hc/article_attachments/360074360472/img_507.JPG",
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360050933412-Minecraft-Beta-1-16-200-51-Xbox-One-Windows-10-Android-",
-    "date": "2020-10-22",
+    "date": "2020-10-23",
     "category": "bedrock"
   },
   {
-    "title": "Java 1.16.4 pre-release 2 ora disponibile!",
+    "title": "Java 1.16.4 pre-release 2 ora disponibile",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.16.4-pre-release-2-header.png.transform/minecraft-image-large/image.png",
     "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-4-pre-release-2",
     "date": "2020-10-22",
@@ -40,40 +40,5 @@
     "url": "https://www.minecraft.net/content/minecraft-net/language-masters/en-us/article/minecraft-live-the-recap",
     "date": "2020-10-7",
     "category": "minecon"
-  },
-  {
-    "title": "Annunciato Minecraft: Live",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MCLive-videobanner.jpg.transform/minecraft-video-original/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/announcing-minecraft-live",
-    "date": "2020-10-6",
-    "category": "minecon"
-  },
-  {
-    "title": "RTX disponibile per Minecraft su Win 10 beta",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RTX3-HEADER.JPG.transform/minecraft-image-large/image.JPG",
-    "url": "https://www.minecraft.net/en-us/article/new-worlds-rtx-windows-10-beta-",
-    "date": "2020-10-5",
-    "category": "bedrock"
-  },
-  {
-    "title": "Minecraft riceve il supporto a PlayStation VR",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/PSVR-header.jpg.transform/minecraft-image-large/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-gets-playstation-vr",
-    "date": "2020-10-4",
-    "category": "bedrock"
-  },
-  {
-    "title": "Rilasciato Minecraft 1.16.3",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_16_3_header.jpg.transform/minecraft-image-large/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-3",
-    "date": "2020-10-3",
-    "category": "java"
-  },
-  {
-    "title": "Rilasciato Minecraft 1.16.3 RC 1",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.16.3-rc1_header.jpg.transform/minecraft-image-large/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-3-release-candidate-1",
-    "date": "2020-10-2",
-    "category": "java"
   }
 ]
