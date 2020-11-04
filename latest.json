@@ -1,9 +1,16 @@
 [
   {
+    "title": "Java 20w45a ora disponibile",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-20w45a-header.png.transform/minecraft-image-large/image.png",
+    "url": "https://www.minecraft.net/it-it/article/minecraft-snapshot-20w45a",
+    "date": "2020-11-04",
+    "category": "java"
+  },
+  {
      "title": "Java 1.16.4 ora disponibile",
      "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-header.jpg.transform/minecraft-image-large/image.jpg",
      "url": "https://www.minecraft.net/it-it/article/minecraft-java-edition-1-16-4",
-     "date": "2020-11-03",
+     "date": "2020-11-02",
      "category": "java"
   },
   {
@@ -19,13 +26,6 @@
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360050933412-Minecraft-Beta-1-16-200-51-Xbox-One-Windows-10-Android-",
     "date": "2020-10-23",
     "category": "bedrock"
-  },
-  {
-    "title": "Java 1.16.4 pre-release 2 ora disponibile",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1.16.4-pre-release-2-header.png.transform/minecraft-image-large/image.png",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-4-pre-release-2",
-    "date": "2020-10-22",
-    "category": "java"
   },
   {
     "title": "Gli account Mojang passeranno a Microsoft",
