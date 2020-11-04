@@ -1,5 +1,12 @@
 [
   {
+     "title": "Java 1.16.4 ora disponibile",
+     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-header.jpg.transform/minecraft-image-large/image.jpg",
+     "url": "https://www.minecraft.net/it-it/article/minecraft-java-edition-1-16-4",
+     "date": "2020-11-03",
+     "category": "java"
+  },
+  {
     "title": "Java 1.16.4 RC 1 ora disponibile",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-candidate-1-header.jpg.transform/minecraft-image-large/image.jpg",
     "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-4-release-candidate-1",
@@ -26,13 +33,6 @@
     "url": "https://www.minecraft.net/en-us/article/java-edition-moving-house",
     "date": "2020-10-21",
     "category": "java"
-  },
-  {
-   "title": "Java 1.16.4 pre-release 1 ora disponibile",
-   "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-pre1-header.jpg.transform/minecraft-image-small/image.jpg",
-   "url": "https://www.minecraft.net/it-it/article/minecraft-1-16-4-pre-release-1",
-   "date": "2020-10-15",
-   "category": "java"
   },
   {
     "title": "Recap di Minecraft: Live",
