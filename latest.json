@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bedrock beta 1.16.200.53 ora disponibile",
+    "image": "https://feedback.minecraft.net/hc/article_attachments/360075430292/img_557.JPG",
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/360051721352-Minecraft-Beta-1-16-200-53-Xbox-One-Windows-10-Android-",
+    "date": "2020-11-05",
+    "category": "bedrock"
+  },
+  {
     "title": "Java 20w45a ora disponibile",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-20w45a-header.png.transform/minecraft-image-large/image.png",
     "url": "https://www.minecraft.net/it-it/article/minecraft-snapshot-20w45a",
@@ -14,14 +21,7 @@
      "category": "java"
   },
   {
-    "title": "Java 1.16.4 RC 1 ora disponibile",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-candidate-1-header.jpg.transform/minecraft-image-large/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-16-4-release-candidate-1",
-    "date": "2020-10-27",
-    "category": "java"
-  },
-  {
-    "title": "Bedrock beta 1.16.200.56 ora disponibile",
+    "title": "Bedrock beta 1.16.200.51 ora disponibile",
     "image": "https://feedback.minecraft.net/hc/article_attachments/360074360472/img_507.JPG",
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360050933412-Minecraft-Beta-1-16-200-51-Xbox-One-Windows-10-Android-",
     "date": "2020-10-23",
