@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bedrock 1.16.100 ora disponibile",
+    "image": "https://pbs.twimg.com/media/EnCdTqWXcAAtNaI?format=jpg&name=4096x4096",
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/360052592091",
+    "date": "2020-11-17",
+    "category": "bedrock"
+  },
+  {
     "title": "Bedrock beta 1.16.200.55 ora disponibile",
     "image": "https://pbs.twimg.com/media/Emju9R0XIAQ-2Gf?format=jpg&name=4096x4096",
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360051928792",
@@ -12,13 +19,6 @@
     "url": "https://www.minecraft.net/it-it/article/minecraft-snapshot-20w46a",
     "date": "2020-11-11",
     "category": "java"
-  },
-  {
-    "title": "Bedrock beta 1.16.200.53 ora disponibile",
-    "image": "https://feedback.minecraft.net/hc/article_attachments/360075430292/img_557.JPG",
-    "url": "https://feedback.minecraft.net/hc/en-us/articles/360051721352-Minecraft-Beta-1-16-200-53-Xbox-One-Windows-10-Android-",
-    "date": "2020-11-05",
-    "category": "bedrock"
   },
   {
     "title": "Java 20w45a ora disponibile",
