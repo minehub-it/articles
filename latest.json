@@ -1,5 +1,19 @@
 [
   {
+    "title": "Java 20w48a ora disponibile",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/20w48a_header.jpg.transform/minecraft-image-large/image.jpg",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-20w48a",
+    "date": "2020-11-25",
+    "category": "java"
+  },
+  {
+    "title": "Bedrock beta 1.15.200.57 ora disponibile",
+    "image": "https://i.imgur.com/fCURPym.png",
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/360052476232-Minecraft-Beta-1-16-200-57-Xbox-One-Windows-10-Android-",
+    "date": "2020-11-24",
+    "category": "bedrock"
+  },
+  {
     "title": "Bedrock 1.16.100 ora disponibile",
     "image": "https://pbs.twimg.com/media/EnCdTqWXcAAtNaI?format=jpg&name=4096x4096",
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360052592091",
@@ -7,24 +21,10 @@
     "category": "bedrock"
   },
   {
-    "title": "Bedrock beta 1.16.200.55 ora disponibile",
-    "image": "https://pbs.twimg.com/media/Emju9R0XIAQ-2Gf?format=jpg&name=4096x4096",
-    "url": "https://feedback.minecraft.net/hc/en-us/articles/360051928792",
-    "date": "2020-11-11",
-    "category": "bedrock"
-  },
-  {
     "title": "Java 20w46a ora disponibile",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-20w46a-header.jpg.transform/minecraft-image-large/image.jpg",
     "url": "https://www.minecraft.net/it-it/article/minecraft-snapshot-20w46a",
     "date": "2020-11-11",
-    "category": "java"
-  },
-  {
-    "title": "Java 20w45a ora disponibile",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-20w45a-header.png.transform/minecraft-image-large/image.png",
-    "url": "https://www.minecraft.net/it-it/article/minecraft-snapshot-20w45a",
-    "date": "2020-11-04",
     "category": "java"
   },
   {
