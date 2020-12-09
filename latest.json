@@ -1,5 +1,19 @@
 [
   {
+    "title": "Bedrock beta 1.16.210.51 ora disponibile",
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/360053524911",
+    "image": "https://feedback.minecraft.net/hc/article_attachments/360079222371/img_518.JPG",
+    "date": "2020-12-09",
+    "category": "bedrock"
+  },
+  {
+    "title": "Bedrock 1.16.200 ora disponibile",
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/360052712132-Minecraft-1-16-200-Bedrock-",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/rtxlaunch-header.png.transform/minecraft-image-large/image.png",
+    "date": "2020-12-08",
+    "category": "bedrock"
+  },
+  {
     "title": "Java 20w49a ora disponibile",
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-20w49a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot_20w49a_header.jpg.transform/minecraft-image-large/image.jpg",
@@ -7,25 +21,11 @@
     "category": "java"
   },
   {
-    "title": "Bedrock beta 1.16.210.50 ora disponibile",
-    "url": "https://feedback.minecraft.net/hc/en-us/articles/360053136231-Minecraft-Beta-1-16-210-50-Xbox-One-Windows-10-Android-",
-    "image": "https://i.imgur.com/5dViIhQ.png",
-    "date": "2020-12-02",
-    "category": "bedrock"
-  },
-  {
     "title": "Java 20w48a ora disponibile",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/20w48a_header.jpg.transform/minecraft-image-large/image.jpg",
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-20w48a",
     "date": "2020-11-25",
     "category": "java"
-  },
-  {
-    "title": "Bedrock beta 1.15.200.57 ora disponibile",
-    "image": "https://i.imgur.com/fCURPym.png",
-    "url": "https://feedback.minecraft.net/hc/en-us/articles/360052476232-Minecraft-Beta-1-16-200-57-Xbox-One-Windows-10-Android-",
-    "date": "2020-11-24",
-    "category": "bedrock"
   },
   {
     "title": "Gli account Mojang passeranno a Microsoft",
