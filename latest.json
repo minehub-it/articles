@@ -1,5 +1,19 @@
 [
   {
+    "title": "Java 20w51a ora disponibile",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-20w51a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-20w51a-header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2020-12-16",
+    "category": "java"
+  },
+  {
+    "title": "Bedrock 1.16.201 ora disponibile",
+    "url": "https://feedback.minecraft.net/hc/en-us/articles/360053622851",
+    "image": "https://pbs.twimg.com/media/EpSt0PwXIAUCb5F?format=jpg&name=large",
+    "date": "2020-12-15",
+    "category": "bedrock"
+  },
+  {
     "title": "Bedrock beta 1.16.210.51 ora disponibile",
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360053524911",
     "image": "https://feedback.minecraft.net/hc/article_attachments/360079222371/img_518.JPG",
@@ -21,24 +35,10 @@
     "category": "java"
   },
   {
-    "title": "Java 20w48a ora disponibile",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/20w48a_header.jpg.transform/minecraft-image-large/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-20w48a",
-    "date": "2020-11-25",
-    "category": "java"
-  },
-  {
     "title": "Gli account Mojang passeranno a Microsoft",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/OneDesktop-header.jpg.transform/minecraft-image-large/image.jpg",
     "url": "https://www.minecraft.net/en-us/article/java-edition-moving-house",
     "date": "2020-10-21",
     "category": "java"
-  },
-  {
-    "title": "Recap di Minecraft: Live",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MCLive_Summary_carousel.jpg",
-    "url": "https://www.minecraft.net/content/minecraft-net/language-masters/en-us/article/minecraft-live-the-recap",
-    "date": "2020-10-7",
-    "category": "minecon"
   }
 ]
