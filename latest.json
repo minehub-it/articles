@@ -1,5 +1,12 @@
 [
   {
+    "title": "Java 1.16.5 ora disponibile",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-5-header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2021-1-15",
+    "category": "java"
+  },
+  {
     "title": "Bedrock beta 1.16.210.53 ora disponibile",
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360053980592",
     "image": "https://pbs.twimg.com/media/EpdCuM-W4AArhMW?format=jpg&name=large",
@@ -18,13 +25,6 @@
     "url": "https://feedback.minecraft.net/hc/en-us/articles/360053622851",
     "image": "https://pbs.twimg.com/media/EpSt0PwXIAUCb5F?format=jpg&name=large",
     "date": "2020-12-15",
-    "category": "bedrock"
-  },
-  {
-    "title": "Bedrock beta 1.16.210.51 ora disponibile",
-    "url": "https://feedback.minecraft.net/hc/en-us/articles/360053524911",
-    "image": "https://feedback.minecraft.net/hc/article_attachments/360079222371/img_518.JPG",
-    "date": "2020-12-09",
     "category": "bedrock"
   },
   {
