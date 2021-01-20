@@ -1,5 +1,12 @@
 [
   {
+    "title": "Java 21w03a ora disponibile",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w03a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w03a-header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2021-1-20",
+    "category": "java"
+  },
+  {
     "title": "Java 1.16.5 ora disponibile",
     "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-5-header.jpg.transform/minecraft-image-large/image.jpg",
@@ -26,13 +33,6 @@
     "image": "https://pbs.twimg.com/media/EpSt0PwXIAUCb5F?format=jpg&name=large",
     "date": "2020-12-15",
     "category": "bedrock"
-  },
-  {
-    "title": "Java 20w49a ora disponibile",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-20w49a",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot_20w49a_header.jpg.transform/minecraft-image-large/image.jpg",
-    "date": "2020-12-02",
-    "category": "java"
   },
   {
     "title": "Gli account Mojang passeranno a Microsoft",
