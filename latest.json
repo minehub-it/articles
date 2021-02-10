@@ -1,5 +1,12 @@
 [
   {
+    "title": "Java 21w06a ora disponibile",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w06a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w06a-header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2021-2-10",
+    "category": "java"
+  },
+  {
     "title": "Java 21w05a ora disponibile",
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w05a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w05a-header.jpg.transform/minecraft-image-large/image.jpg",
@@ -19,13 +26,6 @@
     "image": "https://feedback.minecraft.net/hc/article_attachments/360083887052/img_649.JPG",
     "date": "2021-1-28",
     "category": "bedrock"
-  },
-  {
-    "title": "Java 21w03a ora disponibile",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w03a",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w03a-header.jpg.transform/minecraft-image-large/image.jpg",
-    "date": "2021-1-20",
-    "category": "java"
   },
   {
     "title": "Java 1.16.5 ora disponibile",
