@@ -1,5 +1,12 @@
 [
   {
+  "title": "Minecraft Java - Snapshot 21w18a",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w18a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w18a-header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2021-5-5",
+    "category": "java"
+  },
+  {
   "title": "Minecraft Java - Snapshot 21w17a",
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w17a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w17a-header.jpg.transform/minecraft-image-large/image.jpg",
@@ -32,20 +39,6 @@
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w13a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w13a-header.jpg.transform/minecraft-image-large/image.jpg",
     "date": "2021-3-31",
-    "category": "java"
-  },
-  {
-    "title": "Minecraft Bedrock - Beta 1.16.230.52",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-changelog-1-16-230-52",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/axolotl_header2_1170x500.jpg.transform/minecraft-image-large/image.jpg",
-    "date": "2021-3-31",
-    "category": "bedrock"
-  },
-  {
-    "title": "Gli account Mojang passeranno a Microsoft",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/OneDesktop-header.jpg.transform/minecraft-image-large/image.jpg",
-    "url": "https://www.minecraft.net/en-us/article/java-edition-moving-house",
-    "date": "2020-10-21",
     "category": "java"
   }
 ]
