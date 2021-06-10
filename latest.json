@@ -1,37 +1,23 @@
-[   
+[
    {
-  "title": "Minecraft Java - 1.17 candidate 1",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-release-candidate-1",
+  "title": "Minecraft Java - 1.17",
+    "url": "https://www.minecraft.net/en-us/article/caves---cliffs--part-i-out-today-java",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-header.jpg",
+    "date": "2021-6-10",
+    "category": "java"
+  },
+   {
+  "title": "Minecraft Java - 1.17 candidate 2",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-release-candidate-1?2",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-candidate-1-header.jpg.transform/minecraft-image-large/image.jpg",
-    "date": "2021-6-4",
+    "date": "2021-6-7",
     "category": "java"
   },
    {
   "title": "Minecraft Java - 1.17 pre-release 5",
     "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-pre-release-2?5",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-pre-release-2-header.jpg",
-    "date": "2021-6-4",
-    "category": "java"
-  },
-  {
-  "title": "Minecraft Java - 1.17 pre-release 4",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-pre-release-2?4",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-pre-release-2-header.jpg",
-    "date": "2021-6-3",
-    "category": "java"
-  },
-   {
-  "title": "Minecraft Java - 1.17 pre-release 3",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-pre-release-2",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-pre-release-2-header.jpg",
-    "date": "2021-6-1",
-    "category": "java"
-  },
-   {
-  "title": "Minecraft Java - 1.17 pre-release 2",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-pre-release-2",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-pre-release-2-header.jpg",
-    "date": "2021-5-31",
+    "date": "2021-6-4,
     "category": "java"
   },
    {
@@ -46,6 +32,13 @@
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w20a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w20a-header.jpg.transform/minecraft-image-large/image.jpg",
     "date": "2021-5-19",
+    "category": "java"
+  },
+   {
+  "title": "Minecraft Java - Snapshot 21w19a",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w19a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w19a-header.jpg.transform/minecraft-image-large/image.jpg",
+    "date": "2021-5-12",
     "category": "java"
   }
  ]
