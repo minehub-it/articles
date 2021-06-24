@@ -1,5 +1,12 @@
 [
    {
+  "title": "Minecraft Java - 1.17.1 pre-release 1",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-1-pre-release-1",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-1-pre-release-1-header.jpg",
+    "date": "2021-6-18",
+    "category": "java"
+  },
+   {
   "title": "Minecraft Java - 1.17",
     "url": "https://www.minecraft.net/en-us/article/caves---cliffs--part-i-out-today-java",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-header.jpg",
@@ -32,13 +39,6 @@
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w20a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w20a-header.jpg.transform/minecraft-image-large/image.jpg",
     "date": "2021-5-19",
-    "category": "java"
-  },
-   {
-  "title": "Minecraft Java - Snapshot 21w19a",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w19a",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w19a-header.jpg.transform/minecraft-image-large/image.jpg",
-    "date": "2021-5-12",
     "category": "java"
   }
  ]
