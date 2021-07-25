@@ -2,50 +2,43 @@
    {
   "title": "Minecraft Java - 1.18 Experimental Snapshot",
     "url": "https://www.minecraft.net/en-us/article/new-world-generation-java-available-testing",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/worlgeneration-header.jpg.transform/minecraft-image-large/image.jpg",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/worlgeneration-header.jpg",
     "date": "2021-7-13",
     "category": "java"
   },
    {
-  "title": "Minecraft Java - 1.17.1 pre-release 2",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-1-pre-release-2",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-1-pre-release-2-header.jpg",
-    "date": "2021-6-30",
-    "category": "java"
-  },
-   {
-  "title": "Minecraft Java - 1.17.1 pre-release 1",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-1-pre-release-1",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-1-pre-release-1-header.jpg",
-    "date": "2021-6-18",
+  "title": "Minecraft Java - 1.17.1",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-17-1",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-1-release-header.jpg",
+    "date": "2021-7-6",
     "category": "java"
   },
    {
   "title": "Minecraft Java - 1.17",
     "url": "https://www.minecraft.net/en-us/article/caves---cliffs--part-i-out-today-java",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-header.jpg",
-    "date": "2021-6-10",
+    "date": "2021-6-8",
     "category": "java"
   },
    {
-  "title": "Minecraft Java - 1.17 candidate 2",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-release-candidate-1?2",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-candidate-1-header.jpg.transform/minecraft-image-large/image.jpg",
-    "date": "2021-6-7",
+  "title": "Minecraft Java - 1.16.5",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-5-header.jpg",
+    "date": "2021-1-13",
     "category": "java"
   },
    {
-  "title": "Minecraft Java - 1.17 pre-release 5",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-pre-release-2?5",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-pre-release-2-header.jpg",
-    "date": "2021-6-4",
+  "title": "Minecraft Java - 1.16.4",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-4",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-header.jpg",
+    "date": "2020-10-29",
     "category": "java"
   },
    {
-  "title": "Minecraft Java - 1.17 pre-release 1",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-17-pre-release-1",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-pre-release-1-header.jpg",
-    "date": "2021-5-27",
+  "title": "Minecraft Java - 1.16.3",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-3",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_16_3_header.jpg",
+    "date": "2020-9-10",
     "category": "java"
   }
  ]
