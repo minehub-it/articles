@@ -1,44 +1,44 @@
 [   
-   {
-  "title": "Minecraft Java - Snapshot 21w38a",
+  {
+    "title": "Minecraft Java - Snapshot 21w38a",
     "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-21w38a",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-21w38a-header.jpg",
     "date": "2021-9-23",
     "category": "java"
   },
-   {
-  "title": "Minecraft Java - 1.17.1",
+  {
+    "title": "Minecraft Java - 1.17.1",
     "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-17-1",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-1-release-header.jpg",
     "date": "2021-7-6",
     "category": "java"
   },
-   {
-  "title": "Minecraft Java - 1.17",
+  {
+    "title": "Minecraft Java - 1.17",
     "url": "https://www.minecraft.net/en-us/article/caves---cliffs--part-i-out-today-java",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-17-release-header.jpg",
     "date": "2021-6-8",
     "category": "java"
   },
-   {
-  "title": "Minecraft Java - 1.16.5",
+  {
+    "title": "Minecraft Java - 1.16.5",
     "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-5-header.jpg",
     "date": "2021-1-13",
     "category": "java"
   },
-   {
-  "title": "Minecraft Java - 1.16.4",
+  {
+    "title": "Minecraft Java - 1.16.4",
     "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-4",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-16-4-release-header.jpg",
     "date": "2020-10-29",
     "category": "java"
   },
-   {
-  "title": "Minecraft Java - 1.16.3",
+  {
+    "title": "Minecraft Java - 1.16.3",
     "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-3",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1_16_3_header.jpg",
     "date": "2020-9-10",
     "category": "java"
   }
- ]
+]
