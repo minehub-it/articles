@@ -1,9 +1,16 @@
-[   
+[
   {
     "title": "Minecraft Java - 1.19 Release Candidate 2",
     "url": "https://www.minecraft.net/en-us/article/minecraft-1-19-release-candidate-1",
     "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-19-release-candidate-1-header.jpg",
-    "date": "2022-6-3",
+    "date": "2022-6-8",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.19",
+    "url": "https://www.minecraft.net/en-us/article/the-wild-update-coming",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Xbox_Minecraft_WildUpdate_Main_.Net_1170x500.jpg",
+    "date": "2022-6-7",
     "category": "java"
   },
   {
