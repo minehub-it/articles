@@ -1,9 +1,16 @@
-[   
+[
   {
-    "title": "Minecraft Java - 1.19 Pre-Release 1",
-    "url": "https://www.minecraft.net/en-us/article/minecraft-1-19-pre-release-1",
-    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/1-19-pre-release-1-header.jpg",
-    "date": "2022-5-18",
+    "title": "Minecraft Java - Snapshot 22w24a",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-22w24a",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snapshot-22w24a-header.jpg",
+    "date": "2022-6-15",
+    "category": "java"
+  },
+  {
+    "title": "Minecraft Java - 1.19",
+    "url": "https://www.minecraft.net/en-us/article/the-wild-update-coming",
+    "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Xbox_Minecraft_WildUpdate_Main_.Net_1170x500.jpg",
+    "date": "2022-6-7",
     "category": "java"
   },
   {
